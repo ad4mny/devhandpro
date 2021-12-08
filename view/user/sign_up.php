@@ -1,5 +1,5 @@
 <?php
-require_once $_SERVER['DOCUMENT_ROOT'] . '/devhandpro/db/config.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/handcraft-store/db/config.php';
 require_once ROOT_URL . '/controller/loginController.php';
 
 if (isset($_POST['submit'])) {

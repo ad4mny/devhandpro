@@ -1,12 +1,11 @@
 <?php
-define('ROOT_URL', $_SERVER['DOCUMENT_ROOT'] . '/devhandpro');
+define('ROOT_URL', $_SERVER['DOCUMENT_ROOT'] . '/handcraft-store');
 
 // localhost db setting
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'handprodb');
 define('DB_USER', 'root');
-define('DB_PASS', '');
 
 // paypal config
 define('PAYPAL_ID', 'sb-ju51r2591117@business.example.com'); 
